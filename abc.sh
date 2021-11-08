@@ -1,1 +1,1 @@
-"this is just for testing. Please ignore it." >> /tmp/project5
+echo "this is just for testing. Please ignore it." >> /tmp/project5
